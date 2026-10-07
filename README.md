@@ -1,6 +1,6 @@
 # BÁO CÁO LAB 7: KIỂM THỬ API BẰNG POSTMAN
 
-- **Họ và tên:** Le Quang Thang
+- **Họ và tên:** Lê Quang Thắng
 - **Mã sinh viên:** 23010236
 - **Lớp:** CNTT_3
 
