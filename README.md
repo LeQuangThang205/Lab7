@@ -16,7 +16,7 @@ Postman là công cụ phổ biến dùng để kiểm thử API, gửi các yê
 - **Phương thức:** GET
 - **Mô tả:** Lấy thông tin bài viết có ID = 1.
 - **Kết quả:** Status `200 OK`.
-![GET Request](images/get_request.png)
+![GET Request](Ảnh chụp màn hình 2026-10-07 164903.png)
 
 ### 2.2. Kiểm thử Request POST (Tạo mới dữ liệu)
 - **URL:** `https://jsonplaceholder.typicode.com/posts`
